@@ -18,7 +18,11 @@ Hydration Status (Classification) – Well Hydrated / Mildly Dehydrated / Dehydr
 
 Technologies
 Python 3.x – Programming
+
 Pandas – Data handling
+
 Scikit-learn – Random Forest models
+
 Matplotlib – Visualization
+
 Joblib – Save/load models
