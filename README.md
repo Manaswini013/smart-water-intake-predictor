@@ -15,6 +15,7 @@ Outputs:
 
 Water Intake (Regression) – Recommended liters/day
 Hydration Status (Classification) – Well Hydrated / Mildly Dehydrated / Dehydrated
+
 Technologies
 Python 3.x – Programming
 Pandas – Data handling
