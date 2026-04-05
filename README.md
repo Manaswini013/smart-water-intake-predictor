@@ -1,4 +1,5 @@
 **Smart Water Intake Predictor**
+
 Predicts daily water intake (liters) and hydration status using Machine Learning based on personal, environmental, lifestyle, and health factors.
 
 Features
